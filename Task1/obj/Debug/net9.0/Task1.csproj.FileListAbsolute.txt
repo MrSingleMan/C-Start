@@ -12,3 +12,4 @@ F:\Git\C#\Lesson01\Task1\obj\Debug\net9.0\refint\Task1.dll
 F:\Git\C#\Lesson01\Task1\obj\Debug\net9.0\Task1.pdb
 F:\Git\C#\Lesson01\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
 F:\Git\C#\Lesson01\Task1\obj\Debug\net9.0\ref\Task1.dll
+F:\Git\C#\Lesson01\Task1\obj\Debug\net9.0\Task1.sourcelink.json
