@@ -21,3 +21,11 @@ Console.WriteLine(product3);
 
 double quotient1 = i1 / d1;
 Console.WriteLine(quotient1);
+
+int a = 7;
+double b = 2;
+int c = 10;
+int d = 6;
+
+double result = a * b / (c + d);
+Console.WriteLine(result);
